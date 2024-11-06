@@ -1,0 +1,62 @@
+I incorporated the NIST Cybersecurity Framework for this project. 
+
+The NIST Cybersecurity Framework (CSF) includes five core functions: Identify, Protect, Detect, Respond, and Recover. 
+
+1. Identify [Understanding and Identifying Cyber Risks]
+Objective: I determine participants’ current awareness levels and identify potential vulnerabilities related to phishing.
+Activities:
+    - Conduct a phishing awareness assessment (turned this into a mini game) among participants to gauge their baseline knowledge.
+    - Categorize participants into Low, Moderate, and High-risk levels based on their ability to recognize phishing attempts.
+    - Identify common areas of weakness (e.g., suspicious link verification) -> key risks.
+
+Outcome: A risk profile for each participant, showing their vulnerability to phishing attacks.
+
+2. Protect [Developing Preventative Measures]
+Objective: Establish educational safeguards to improve participants' awareness and resilience to phishing threats.
+Activities:
+    - Provide phishing detection training that includes common cues, such as verifying sender information, checking URLs, and identifying urgent language.
+    - Distribute a "Phishing Detection Cheat Sheet" as a takeaway for participants to reinforce what they learned.
+    - Emphasize safe practices, such as avoiding unfamiliar links and reporting suspicious emails.
+
+Outcome: Increased awareness and knowledge among our club members, reducing the likelihood of them falling victim to phishing.
+
+3. Detect [Monitoring for Phishing Vulnerabilities]
+Objective: Identify signs of phishing vulnerability in participant responses.
+Activities:
+    - Analyze participant responses to assess their ability to detect phishing cues, especially focusing on those who missed critical indicators (e.g., suspicious links).
+    - Create a risk assessment matrix that shows each participant's risk level (Low, Moderate, High).
+
+Outcome: A clear understanding of which participants are more likely to be susceptible to phishing and what specific indicators they tend to miss.
+
+4. Respond [Establishing an Incident Response Protocol]
+Objective: Prepare participants to respond effectively if they suspect a phishing attempt or realize they’ve fallen victim.
+Activities:
+    - Develop a step-by-step incident response plan for participants to follow if they encounter a phishing email, including instructions to:
+    - Report phishing emails to the IT department or a designated security contact.
+    - Change passwords immediately if they’ve accidentally provided credentials.
+    - Enable two-factor authentication for added security.
+    - Simulate a phishing incident and practice the response process with participants to ensure they understand the steps.
+
+Outcome: Make our club members (students) feel empowered and prepared to act if they encounter phishing attempts, reducing potential impact.
+
+5. Recover [Facilitating Recovery from Phishing Incidents]
+Objective: Help participants understand the steps for recovering from a phishing attack and ensuring continued security.
+Activities:
+    - Provide guidance on restoring compromised accounts and resetting security settings after a phishing incident.
+    - Offer ongoing support through refresher training sessions and periodic phishing awareness simulations to reinforce learning.
+    - Conduct a debriefing session after the training, discussing common mistakes and sharing additional tips for preventing future incidents.
+
+Outcome: Participants are more confident in their ability to secure their accounts and recover from potential phishing incidents.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Summary of NIST CSF Application
+
+By structuring my project around the Identify, Protect, Detect, Respond, and Recover functions of the NIST, 
+this provided me a comprehensive approach to phishing awareness and cyber risk assessment. 
+Each function focuses on a specific aspect of cybersecurity management, making it easier for our WiCys club members (mostly beginners) to understand and apply.
+
+Benefits of Using the NIST Cybersecurity Framework (CSF)
+    - Clear Structure: NIST CSF provides a logical flow, making it easy to follow and implement.
+    - Real-World Application: Aligns well with practical cybersecurity tasks like phishing awareness and incident response.
+    - Widely Recognized: Demonstrates familiarity with an industry-standard framework, valued by employers like the Port of Seattle.
+    - Beginner-Friendly: Each function is straightforward, making it accessible to those new to cybersecurity.

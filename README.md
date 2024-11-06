@@ -1,4 +1,4 @@
-# Campus-Phishing-Awareness-and-Risk-Assessment
+# Campus-Phishing-Awareness-and-Risk-Assessment (October 2023, Cybersecurity Awareness Month!)
 Women in Cybersecurity Student Chapter, University of Washington Bothell
 
 This project was conducted as part of the Women in Cybersecurity Student Chapter at University of Washington Bothell. The goal was to assess phishing awareness among students (current members of WiCys Student Chapter in October 2023), identify risk levels, and provide recommendations to improve cybersecurity awareness.

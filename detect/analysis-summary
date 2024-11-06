@@ -1,1 +1,42 @@
+Phishing Awareness Project: Analysis Summary
+Objective: My analysis aims to evaluate the phishing detection capabilities of students within a university setting and categorize their risk levels based on their performance. 
+Key findings indicate areas of vulnerability that need to be addressed to improve overall cybersecurity awareness.
 
+[Key Findings]
+
+Risk Distribution:
+    - Low Risk: 7 participants (28%) demonstrated strong phishing detection skills, making minimal errors. These participants consistently identified suspicious cues in phishing attempts, showing a good understanding of phishing indicators.
+    - Moderate Risk: 12 participants (48%) showed moderate awareness but missed some cues, particularly in areas like sender verification and urgency language. This group requires additional training to strengthen their detection skills.
+    - High Risk: 6 participants (24%) exhibited significant challenges in recognizing phishing attempts, often failing to detect suspicious links and verify sender information. This group is the most susceptible to phishing attacks and needs targeted training.
+
+Common Vulnerabilities Identified:
+    - Suspicious Links: 64% of participants struggled with identifying suspicious links. Many participants clicked on links without verifying their legitimacy, a major vulnerability in phishing defense.
+    - Sender Verification: A notable portion of participants in the Moderate and High-Risk groups did not check or verify the sender’s email address. 
+        This lack of verification increased their susceptibility to phishing.
+    - Urgent Language: Participants in the Moderate and High-Risk categories often ignored urgency language as a potential phishing cue. 
+        Phishing emails commonly use phrases like “Act Now” or “Immediate Action Required” to create a sense of urgency, which participants need to recognize as a red flag.
+
+Impact of Prior Cybersecurity Knowledge:
+    - Participants with prior cybersecurity knowledge were more likely to fall in the Low-Risk category, demonstrating a stronger awareness of phishing indicators.
+    - Those without prior knowledge were mostly in the Moderate and High-Risk categories, indicating a need for introductory training in phishing detection.
+
+Recommendations
+    - Focused Training on Link Verification: 
+        Provide specific guidance on how to verify links by hovering over them, checking for secure (HTTPS) connections, and avoiding links that lead to unfamiliar domains. 
+        This training could help address the common vulnerability of failing to identify suspicious links.
+    - Strengthen Sender Verification Awareness:
+        Emphasize the importance of verifying sender information. Encourage participants to look closely at sender email addresses, especially in unexpected or unsolicited messages.
+    - Educate on Recognizing Urgent Language:
+        Train participants to recognize urgency language as a red flag in phishing emails. Providing examples of common urgent phrases used by phishers can help participants remain cautious.
+    - Develop a Regular Phishing Awareness Program:
+        Implement ongoing phishing simulations and refresher training sessions. Regularly testing participants with realistic phishing scenarios can reinforce learning and improve long-term phishing detection skills.
+    - Targeted Training for High-Risk Participants:
+        High-risk participants would benefit from additional, hands-on training focused on phishing recognition. Consider pairing them with more knowledgeable participants or providing one-on-one sessions to improve their skills.
+
+[Conclusion]
+
+This analysis reveals that while some participants have a strong understanding of phishing detection, there are notable vulnerabilities, 
+particularly in link verification, sender verification, and urgency recognition. 
+
+By addressing these areas through targeted training and regular simulations, the group can improve their overall phishing awareness, 
+reducing their susceptibility to cyber threats.

@@ -1,0 +1,25 @@
+Incident Response Plan:
+
+1. Identify and Contain:
+ - Disconnect affected systems from the network.
+ - Notify IT and security teams to assess the scope.
+ 
+2. Collect Evidence:
+ - Preserve emails, messages, or files involved in the incident.
+ - Document affected systems, users, and accounts.
+ 
+3. Analyze the Incident:
+ - Conduct analysis to determine how the attack succeeded.
+ - Investigate if sensitive information was compromised.
+ 
+4. Mitigate the Threat:
+ - Block malicious IPs, domains, or URLs involved.
+ - Update email filters and security protocols.
+ 
+5. Notify Affected Parties:
+ - Inform employees, clients, or other affected parties.
+ - Provide guidance on securing accounts.
+ 
+6. Document and Review:
+ - Document the steps taken and results.
+ - Review procedures to improve future responses.

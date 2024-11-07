@@ -1,5 +1,6 @@
 # Campus Phishing Awareness and Risk Assessment
 October 2023 – Cybersecurity Awareness Month
+
 Women in Cybersecurity (WiCyS) Student Chapter, University of Washington Bothell
 
 ## Project Overview

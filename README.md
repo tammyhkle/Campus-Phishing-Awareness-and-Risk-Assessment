@@ -1,23 +1,34 @@
-# Campus-Phishing-Awareness-and-Risk-Assessment (October 2023, Cybersecurity Awareness Month!)
-Women in Cybersecurity Student Chapter, University of Washington Bothell
+# Campus Phishing Awareness and Risk Assessment
+October 2023 – Cybersecurity Awareness Month
+Women in Cybersecurity (WiCyS) Student Chapter, University of Washington Bothell
 
-This project was conducted as part of the Women in Cybersecurity Student Chapter at University of Washington Bothell. The goal was to assess phishing awareness among students (current members of WiCys Student Chapter in October 2023), identify risk levels, and provide recommendations to improve cybersecurity awareness.
+## Project Overview
+This project, led by the WiCyS Student Chapter at UW Bothell, aimed to measure phishing awareness among members, identify risk levels, and provide recommendations for stronger cybersecurity practices. We assessed members' susceptibility to phishing in October 2023.
 
-### Project Overview
-- **Participants**: 20 members, 5 officers for the term 2023-2024 (Lily, Margaret, Tammy, Sovanna, Chloe)
-- **Method**: Conducted a phishing identification exercise with visual examples (in-person meeting), followed by data analysis.
-- **Results**: Created a risk assessment matrix categorizing participants into risk levels (low, moderate, high).
+## Goals
+Measure phishing awareness.
+  - Identify risk levels among members.
+  - Offer clear recommendations to boost security awareness.
 
-### Repository Structure
-- **survey-design/**: Contains survey questions and phishing examples used during the exercise.
-- **data-analysis/**: Holds raw data, analysis summary, and the risk assessment matrix.
-- **findings-and-recommendations/**: Includes the final report and presentation with recommendations.
-- **visuals/**: Contains visual aids, including risk charts and campaign posters.
+## Participants
+  - 20 WiCyS members completed a phishing assessment to help us gauge risk levels.
 
-### Key Findings
-- 50% of participants struggled with identifying suspicious links.
-- Targeted recommendations were developed to enhance phishing awareness.
+## Method
+  - Assessment: Members responded to simulated phishing scenarios.
+  - Risk Levels: Responses were scored and categorized by risk level.
+  - Analysis: Results were reviewed for common vulnerabilities.
 
-### How to Use This Repository
-- View `report.pdf` in `findings-and-recommendations` for the full project summary.
-- Refer to the `risk-assessment-matrix.xlsx` for participant risk levels.
+## Results
+  - Risk levels were assigned based on phishing awareness.
+  - Patterns emerged, showing areas for improvement.
+
+## Repository Structure
+/identify
+/detect
+/protect
+/respond
+/recover
+
+## Key Findings
+  - Members were most susceptible to disguised links and urgent language.
+  - There is a need for stronger email security awareness and phishing training.

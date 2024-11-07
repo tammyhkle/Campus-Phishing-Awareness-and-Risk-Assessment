@@ -22,7 +22,7 @@ Measure phishing awareness.
   - Risk levels were assigned based on phishing awareness.
   - Patterns emerged, showing areas for improvement.
 
-## Repository Structure
+## Repository Structure (based on NIST Framework)
 /identify
 /detect
 /protect
